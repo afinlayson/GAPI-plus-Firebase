@@ -1,4 +1,4 @@
-# Getting Started with GAPI_PLUS_FIREBASE
+# GAPI & Firebase login to get Calendar data
 * copy the .env.template to .env
 * Create a firebase project
 * In Sign-in method Enable Google
